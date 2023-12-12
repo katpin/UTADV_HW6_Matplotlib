@@ -1,2 +1,3 @@
-# Pyber
-UTA Data Bootcamp HW 6: Pyber analytics
+# UTADV_HW6_Matplotlib
+UT Austin Data Visualization Boot Camp Week 6 Homework \
+Pyber
